@@ -73,7 +73,7 @@
      transform="translate(0 10.16)"
      id="g11909">
     <g
-       id="g81561">
+       id="g98146">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -81,8 +81,8 @@
          d="m -3.2024293,1041.7198 0.1849,0 0,0.9649 -0.1849,0 z"
          id="path29864" />
       <rect
-         ry="0.48571429"
-         rx="0.49166667"
+         ry="0.20440443"
+         rx="0.20440443"
          y="1040.5022"
          x="-2.95"
          height="3.4000001"
@@ -114,23 +114,23 @@
          rx="0.075000003"
          ry="0.10051428" />
       <rect
-         style="opacity:1;fill:#f6f2e6;fill-opacity:1;stroke:#99abb0;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect36297"
-         width="1.1"
-         height="1.1"
-         x="-2.95"
-         y="1042.8022"
-         rx="0.49166667"
-         ry="0.48571429" />
-      <rect
-         ry="0.48571429"
-         rx="0.49166662"
+         ry="0.24264982"
+         rx="0.24264981"
          y="1040.5022"
          x="-2.9499998"
          height="1.1"
-         width="1.0999999"
+         width="0.83483487"
          id="rect36303"
-         style="opacity:1;fill:#f6f2e6;fill-opacity:1;stroke:#99abb0;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#f6f2e6;fill-opacity:1;stroke:#99abb0;stroke-width:0.09999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#f6f2e6;fill-opacity:1;stroke:#99abb0;stroke-width:0.09999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect98144"
+         width="0.83483487"
+         height="1.1"
+         x="-2.9499998"
+         y="1042.8022"
+         rx="0.24264981"
+         ry="0.24264982" />
     </g>
   </g>
   <rect
