@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="45.254834"
-     inkscape:cx="-3.9190335"
-     inkscape:cy="-3.3141599"
+     inkscape:zoom="90.509668"
+     inkscape:cx="-2.5727667"
+     inkscape:cy="0.33160207"
      inkscape:document-units="px"
      inkscape:current-layer="g11909"
      showgrid="false"
@@ -73,7 +73,7 @@
      transform="translate(0 10.16)"
      id="g11909">
     <g
-       id="g36305">
+       id="g81561">
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -105,18 +105,18 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccc" />
       <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#99abb0;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#f6f2e6;fill-opacity:1;stroke:#99abb0;stroke-width:0.10000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect36295"
          width="0.89999998"
-         height="1.4"
+         height="1.6999999"
          x="2.0500002"
-         y="1041.5022"
+         y="1041.3522"
          rx="0.075000003"
-         ry="0.19999999" />
+         ry="0.10051428" />
       <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#99abb0;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#f6f2e6;fill-opacity:1;stroke:#99abb0;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect36297"
-         width="1.4"
+         width="1.1"
          height="1.1"
          x="-2.95"
          y="1042.8022"
@@ -124,13 +124,13 @@
          ry="0.48571429" />
       <rect
          ry="0.48571429"
-         rx="0.49166667"
+         rx="0.49166662"
          y="1040.5022"
-         x="-2.95"
+         x="-2.9499998"
          height="1.1"
-         width="1.4"
+         width="1.0999999"
          id="rect36303"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#99abb0;stroke-width:0.10000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#f6f2e6;fill-opacity:1;stroke:#99abb0;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
   <rect
