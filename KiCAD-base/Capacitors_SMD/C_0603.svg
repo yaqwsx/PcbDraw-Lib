@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="R_0603.svg"
+   sodipodi:docname="C_0603.svg"
    inkscape:version="0.91 r13725"
    version="1.1"
    id="svg2"
@@ -21,6 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -31,8 +32,8 @@
      inkscape:window-maximized="0"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="0.18457065"
-     inkscape:cx="0.22497787"
+     inkscape:cy="-0.67372999"
+     inkscape:cx="1.3920012"
      inkscape:zoom="256"
      showgrid="false"
      id="namedview11"
@@ -46,19 +47,16 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff" />
-  <g
-     id="g35522">
-    <path
-       d="m -0.7730949,354.70716 0,-0.72136 0.2383783,0 0,0.72136 z m 1.2553873,-0.004 0,-0.72136 0.2383783,0 0,0.72136 z"
-       id="path5"
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#d6dcdb;stroke:#99abb0;stroke-width:0.05033585;stroke-linecap:round" />
-    <path
-       d="m -0.508603,354.69899 -0.0066,-0.70935 0.970841,0 0.0066,0.70935 z"
-       id="path7"
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:#191919;stroke:#6d6d6d;stroke-width:0.06257769;stroke-linecap:round" />
-  </g>
+  <path
+     style="opacity:0.95999995;fill:#d6dcdb;stroke:#99abb0;stroke-width:0.0521144;stroke-linecap:round"
+     inkscape:connector-curvature="0"
+     id="path5"
+     d="m -0.77213471,354.70633 0,-0.74794 0.24643803,0 0,0.74794 z m 1.29783282,-0.004 0,-0.74795 0.24643804,0 0,0.74795 z" />
+  <path
+     style="opacity:0.95999995;fill:#e1dc9c;stroke:#6d6d6d;stroke-width:0.06478879;stroke-linecap:round;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path7"
+     d="m -0.49870024,354.69787 -0.006823,-0.7355 1.00366581,0 0.006823,0.7355 z" />
   <rect
      style="opacity:0.95;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="origin"
