@@ -17,19 +17,23 @@ library when using PcbDraw. Currently there following libraries:
 
 ## Creating Modules
 
-Module is an SVG file containing single component drawing. The file has to
+Module is an SVG file containing a single component drawing. The file has to
 follow these rules:
 
 - it uses only SVG default units.
 - one default unit corresponds to 1 mm in reality.
 - it contains one element with `id=origin` having attributes `x` and `y`. Its
-  coordinates serve as a module origin. This component cannot be nested under
-  any transformation and ideally it should be a top-level component.
+  coordinates serve as a module origin.
 - origin should be a red rectangle of size 1x1.
 - modules should not be too simplified (for example it is not OK for LED to be
   just a color circle).
 - module is named exactly the same as the corresponding KiCAD footprint. The
   extension is changed to `.svg`.
+- for each module there is a corresponding drawing with suffix '.back.svg' (for
+  'pinheader.svg' there is a 'pinheader.back.svg'). This drawing contains view
+  of the module from the other side of the board.
+- each component has to be in a viewbox which tightly encapsulates the
+  component.
 
 Modules are placed in directories corresponding to KiCAD footprint libraries. If
 multiple footprints are represented using one module, the module should not be
