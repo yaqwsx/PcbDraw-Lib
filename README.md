@@ -32,8 +32,8 @@ follow these rules:
 - for each module there is a corresponding drawing with suffix '.back.svg' (for
   'pinheader.svg' there is a 'pinheader.back.svg'). This drawing contains view
   of the module from the other side of the board.
-- each component has to be in a viewbox which tightly encapsulates the
-  component.
+- each component should be placed on a tight canvas. The canvas size determines
+  the highlighted area in component highlight.
 
 Modules are placed in directories corresponding to KiCAD footprint libraries. If
 multiple footprints are represented using one module, the module should not be
