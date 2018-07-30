@@ -8,11 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="C0402.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.1"
    id="svg2"
-   width="10cm"
-   height="10cm">
+   width="0.042333335cm"
+   height="0.035876453cm"
+   viewBox="0 0 1.5000001 1.2712129">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -21,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -29,14 +31,14 @@
   <sodipodi:namedview
      inkscape:current-layer="svg2"
      inkscape:window-maximized="0"
-     inkscape:window-y="18"
+     inkscape:window-y="0"
      inkscape:window-x="960"
-     inkscape:cy="-0.55371058"
-     inkscape:cx="-0.132444"
+     inkscape:cy="0.51296857"
+     inkscape:cx="0.40088934"
      inkscape:zoom="256"
      showgrid="false"
      id="namedview11"
-     inkscape:window-height="1040"
+     inkscape:window-height="1056"
      inkscape:window-width="956"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -48,16 +50,16 @@
      pagecolor="#ffffff" />
   <g
      id="g3"
-     transform="matrix(0.62264603,0,0,0.674748,-46.999525,348.53405)"
+     transform="matrix(0.62264603,0,0,0.674748,-46.499525,-5.5254561)"
      style="stroke-linecap:round">
     <path
        transform="matrix(0,-0.23543,0.26905,0,45.219,6.802)"
-       d="m -9.072,109.602 3.064,0 0,0.886 -3.064,0 z m 0.017,4.666 3.064,0 0,0.886 -3.064,0 z"
+       d="m -9.072,109.602 h 3.064 v 0.886 h -3.064 z m 0.017,4.666 h 3.064 v 0.886 h -3.064 z"
        id="path5"
        inkscape:connector-curvature="0"
        style="opacity:0.95999995;fill:#d6dcdb;stroke:#99abb0;stroke-width:0.2" />
     <path
-       d="m 74.97191,8.9296508 -0.0066,-0.709351 0.970841,0 0.0066,0.709351 z"
+       d="m 74.97191,8.9296508 -0.0066,-0.709351 h 0.970841 l 0.0066,0.709351 z"
        id="path7"
        inkscape:connector-curvature="0"
        style="opacity:0.95999995;fill:#9d5926;fill-opacity:1;stroke:#90754d;stroke-width:0.06257769;stroke-opacity:1" />
@@ -67,6 +69,6 @@
      id="origin"
      width="1"
      height="1"
-     x="0"
-     y="354.33072" />
+     x="0.5"
+     y="0.27121288" />
 </svg>

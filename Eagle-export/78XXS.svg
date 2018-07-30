@@ -8,11 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="78XXS.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.1"
    id="svg2"
-   width="10cm"
-   height="10cm">
+   width="0.30224949cm"
+   height="0.12982218cm"
+   viewBox="0 0 10.709628 4.5999985">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -21,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -30,14 +32,14 @@
      inkscape:current-layer="layer9"
      inkscape:window-maximized="0"
      inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:cy="-2.1218849"
-     inkscape:cx="2.2688817"
+     inkscape:window-x="960"
+     inkscape:cy="2.7431833"
+     inkscape:cx="7.9335734"
      inkscape:zoom="41.144776"
      showgrid="false"
      id="namedview11"
-     inkscape:window-height="1080"
-     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-width="956"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -51,10 +53,10 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="stab"
-     transform="matrix(0,-1,1,0,-354.32109,352.16023)">
+     transform="rotate(-90,-175.57096,173.43948)">
     <g
        id="g4148"
-       transform="matrix(-1,0,0,-1,-4.4314801,708.69116)">
+       transform="rotate(180,-2.2157401,354.34558)">
       <rect
          y="349.01791"
          x="-1.2760456"
@@ -90,6 +92,6 @@
      id="origin"
      width="1"
      height="1"
-     x="0"
-     y="354.33072" />
+     x="5.3106484"
+     y="0.039008748" />
 </svg>

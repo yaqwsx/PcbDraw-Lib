@@ -10,8 +10,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="E5-10,5.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="E5-10,5.svg"
+   width="10.666672"
+   height="10.666665"
+   viewBox="0 0 10.000006 9.9999995">
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -20,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -79,20 +83,20 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="956"
-     inkscape:window-height="1040"
+     inkscape:window-height="1056"
      id="namedview9"
      showgrid="false"
      inkscape:zoom="21.922589"
-     inkscape:cx="0.47698353"
-     inkscape:cy="-0.68777589"
+     inkscape:cx="5.8103164"
+     inkscape:cy="4.6455518"
      inkscape:window-x="960"
-     inkscape:window-y="18"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2"
      showguides="false" />
   <g
      id="g4143"
-     transform="matrix(-1,0,0,-1,2.0642902e-6,199.99999)">
+     transform="rotate(180,2.500001,52.499997)">
     <g
        style="fill:#909090;fill-opacity:1;stroke:url(#radialGradient5872);stroke-width:0.63971573;stroke-miterlimit:4;stroke-dasharray:none"
        transform="matrix(0,-0.27668539,0.27668539,0,-9.4513914,165.27035)"
@@ -108,7 +112,7 @@
          clip-path="url(#clipPath12745)" />
     </g>
     <rect
-       transform="matrix(0,1,-1,0,99.955378,99.966856)"
+       transform="rotate(90,-0.005739,99.961117)"
        clip-path="url(#clipPath5900)"
        y="101.54679"
        x="-6.5628347"
@@ -122,6 +126,6 @@
      id="origin"
      width="1"
      height="1"
-     x="0"
-     y="100.00781" />
+     x="5"
+     y="5.0078173" />
 </svg>

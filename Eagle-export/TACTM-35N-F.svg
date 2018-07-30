@@ -8,11 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="TACTM-35N-F.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.1"
    id="svg2"
-   width="10cm"
-   height="10cm">
+   width="0.22577778cm"
+   height="0.097657479cm"
+   viewBox="0 0 7.9999999 3.4603044">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -21,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -29,15 +31,15 @@
   <sodipodi:namedview
      inkscape:current-layer="svg2"
      inkscape:window-maximized="0"
-     inkscape:window-y="18"
-     inkscape:window-x="0"
-     inkscape:cy="-4.5075937"
-     inkscape:cx="3.282404"
+     inkscape:window-y="0"
+     inkscape:window-x="960"
+     inkscape:cy="-2.6409295"
+     inkscape:cx="7.5490704"
      inkscape:zoom="55.621711"
      showgrid="false"
      id="namedview11"
-     inkscape:window-height="1040"
-     inkscape:window-width="1916"
+     inkscape:window-height="1056"
+     inkscape:window-width="956"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -48,7 +50,7 @@
      pagecolor="#ffffff" />
   <g
      id="g50820"
-     transform="matrix(0.29767661,0,0,0.29767661,-62.27361,301.64537)">
+     transform="matrix(0.29767661,0,0,0.29767661,-58.27361,-50.975031)">
     <rect
        y="175.58539"
        x="195.91147"
@@ -69,6 +71,6 @@
      id="origin"
      width="1"
      height="1"
-     x="0"
-     y="354.33072" />
+     x="3.9999998"
+     y="1.7103183" />
 </svg>

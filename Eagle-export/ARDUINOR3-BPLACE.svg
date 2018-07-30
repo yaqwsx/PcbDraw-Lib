@@ -9,11 +9,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="ARDUINOR3-BPLACE.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.1"
    id="svg2"
-   width="10cm"
-   height="10cm">
+   width="1.8147161cm"
+   height="1.4938306cm"
+   viewBox="0 0 64.300964 52.931004">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -22,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -30,14 +32,14 @@
   <sodipodi:namedview
      inkscape:current-layer="layer1"
      inkscape:window-maximized="0"
-     inkscape:window-y="18"
+     inkscape:window-y="0"
      inkscape:window-x="960"
-     inkscape:cy="-43.703017"
+     inkscape:cy="-42.636338"
      inkscape:cx="-32.701061"
      inkscape:zoom="2.195898"
      showgrid="false"
      id="namedview11"
-     inkscape:window-height="1040"
+     inkscape:window-height="1056"
      inkscape:window-width="956"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -50,7 +52,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="header-female">
+     inkscape:label="header-female"
+     transform="translate(0,-302.39971)">
     <g
        id="g4178"
        transform="matrix(0,0.95283018,-0.95283018,0,188.61422,245.77884)">
@@ -430,12 +433,13 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="capacitor"
-     style="display:inline" />
+     style="display:inline"
+     transform="translate(0,-302.39971)" />
   <rect
      style="opacity:0.95;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="origin"
      width="1"
      height="1"
      x="0"
-     y="354.33072" />
+     y="51.931007" />
 </svg>

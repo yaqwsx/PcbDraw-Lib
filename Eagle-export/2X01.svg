@@ -1,6 +1,5 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
@@ -10,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="0.71684444mm"
+   height="1.4111111mm"
+   viewBox="0 0 2.54 5"
    id="svg4138"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="2x01.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="2X01.svg">
   <defs
      id="defs4140" />
   <sodipodi:namedview
@@ -27,15 +26,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="90.509668"
-     inkscape:cx="0.0013810491"
-     inkscape:cy="-0.72066798"
+     inkscape:cx="1.3560477"
+     inkscape:cy="1.9459446"
      inkscape:document-units="px"
      inkscape:current-layer="svg4138"
      showgrid="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1040"
-     inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-width="956"
+     inkscape:window-height="1056"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata4143">
@@ -52,7 +51,8 @@
   <g
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(1.27,-1049.8622)">
     <g
        id="g5049">
       <rect
@@ -97,6 +97,6 @@
      id="origin"
      width="1"
      height="1"
-     x="0"
-     y="1052.3623" />
+     x="1.27"
+     y="2.5001481" />
 </svg>

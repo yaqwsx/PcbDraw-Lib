@@ -8,11 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="R_1210.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.1"
    id="svg2"
-   width="10cm"
-   height="10cm">
+   width="0.089041114cm"
+   height="0.065023489cm"
+   viewBox="0 0 3.1550001 2.3039819">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -21,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -28,16 +30,16 @@
      id="defs13" />
   <sodipodi:namedview
      inkscape:current-layer="svg2"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:cy="-0.77999431"
-     inkscape:cx="-3.0774554"
+     inkscape:window-x="960"
+     inkscape:cy="0.44994116"
+     inkscape:cx="-1.3942555"
      inkscape:zoom="128"
      showgrid="false"
      id="namedview11"
-     inkscape:window-height="1026"
-     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-width="956"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -47,15 +49,16 @@
      bordercolor="#666666"
      pagecolor="#ffffff" />
   <g
-     id="g36076">
+     id="g36076"
+     transform="translate(1.5779999,-353.17979)">
     <path
        sodipodi:nodetypes="cccccccccc"
-       d="m -1.5269381,355.43271 0,-2.20006 0.4871846,0 0,2.20006 z m 2.5656917,0 0,-2.2004 0.4871846,0 0,2.2004 z"
+       d="m -1.5269381,355.43271 v -2.20006 h 0.4871846 v 2.20006 z m 2.5656917,0 v -2.2004 h 0.4871846 v 2.2004 z"
        id="path5"
        inkscape:connector-curvature="0"
        style="opacity:1;fill:#d6dcdb;stroke:#99abb0;stroke-width:0.10212369;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
-       d="m -0.94658945,355.43271 -0.012952,-2.20292 1.90513138,0 0.0129515,2.20292 z"
+       d="m -0.94658945,355.43271 -0.012952,-2.20292 h 1.90513138 l 0.0129515,2.20292 z"
        id="path7"
        inkscape:connector-curvature="0"
        style="opacity:1;fill:#191919;stroke:#6d6d6d;stroke-width:0.1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none" />
@@ -65,6 +68,6 @@
      id="origin"
      width="1"
      height="1"
-     x="0"
-     y="354.33072" />
+     x="1.5779999"
+     y="1.150929" />
 </svg>

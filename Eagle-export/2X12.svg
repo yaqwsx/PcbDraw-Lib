@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="8.6021338mm"
+   height="1.4111111mm"
+   viewBox="0 0 30.480001 5"
    id="svg4138"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="2X12.svg">
   <defs
      id="defs4140" />
@@ -27,15 +27,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="1.3258319"
-     inkscape:cy="4.5453304"
+     inkscape:cx="2.6804985"
+     inkscape:cy="7.211943"
      inkscape:document-units="px"
      inkscape:current-layer="svg4138"
      showgrid="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1040"
-     inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-width="956"
+     inkscape:window-height="1056"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata4143">
@@ -52,7 +52,8 @@
   <g
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(1.27,-1049.8622)">
     <g
        id="g5049"
        inkscape:tile-cx="0"
@@ -102,90 +103,114 @@
        y="0"
        inkscape:tiled-clone-of="#g5049"
        xlink:href="#g5049"
-       id="use5193" />
+       id="use5193"
+       width="100%"
+       height="100%" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g5049"
        xlink:href="#g5049"
-       transform="translate(2.54,0)"
-       id="use5195" />
+       transform="translate(2.54)"
+       id="use5195"
+       width="100%"
+       height="100%" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g5049"
        xlink:href="#g5049"
-       transform="translate(5.0799999,0)"
-       id="use5197" />
+       transform="translate(5.0799999)"
+       id="use5197"
+       width="100%"
+       height="100%" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g5049"
        xlink:href="#g5049"
-       transform="translate(7.6199999,0)"
-       id="use5199" />
+       transform="translate(7.6199999)"
+       id="use5199"
+       width="100%"
+       height="100%" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g5049"
        xlink:href="#g5049"
-       transform="translate(10.16,0)"
-       id="use5201" />
+       transform="translate(10.16)"
+       id="use5201"
+       width="100%"
+       height="100%" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g5049"
        xlink:href="#g5049"
-       transform="translate(12.7,0)"
-       id="use5203" />
+       transform="translate(12.7)"
+       id="use5203"
+       width="100%"
+       height="100%" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g5049"
        xlink:href="#g5049"
-       transform="translate(15.24,0)"
-       id="use5205" />
+       transform="translate(15.24)"
+       id="use5205"
+       width="100%"
+       height="100%" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g5049"
        xlink:href="#g5049"
-       transform="translate(17.78,0)"
-       id="use5207" />
+       transform="translate(17.78)"
+       id="use5207"
+       width="100%"
+       height="100%" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g5049"
        xlink:href="#g5049"
-       transform="translate(20.32,0)"
-       id="use5209" />
+       transform="translate(20.32)"
+       id="use5209"
+       width="100%"
+       height="100%" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g5049"
        xlink:href="#g5049"
-       transform="translate(22.86,0)"
-       id="use5211" />
+       transform="translate(22.86)"
+       id="use5211"
+       width="100%"
+       height="100%" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g5049"
        xlink:href="#g5049"
-       transform="translate(25.4,0)"
-       id="use5213" />
+       transform="translate(25.4)"
+       id="use5213"
+       width="100%"
+       height="100%" />
     <use
        x="0"
        y="0"
        inkscape:tiled-clone-of="#g5049"
        xlink:href="#g5049"
-       transform="translate(27.94,0)"
-       id="use5215" />
+       transform="translate(27.94)"
+       id="use5215"
+       width="100%"
+       height="100%" />
   </g>
   <rect
      style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.52200001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="origin"
      width="1"
      height="1"
-     x="13.97"
-     y="1052.3623" />
+     x="15.240001"
+     y="2.5001481" />
 </svg>

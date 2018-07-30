@@ -8,11 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="Lite-On_LTST-C170.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.1"
    id="svg2"
-   width="10cm"
-   height="10cm">
+   width="0.059266668cm"
+   height="0.045912635cm"
+   viewBox="0 0 2.1 1.6268256">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -31,14 +32,14 @@
      inkscape:current-layer="svg2"
      inkscape:window-maximized="0"
      inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:cy="-0.67372999"
-     inkscape:cx="1.3920012"
+     inkscape:window-x="960"
+     inkscape:cy="0.39294916"
+     inkscape:cx="2.5120012"
      inkscape:zoom="256"
      showgrid="false"
      id="namedview11"
-     inkscape:window-height="1026"
-     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-width="956"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -48,7 +49,8 @@
      bordercolor="#666666"
      pagecolor="#ffffff" />
   <g
-     id="g5381">
+     id="g5381"
+     transform="translate(1.05,-353.70389)">
     <g
        transform="matrix(-1,0,0,1,0.10462388,0.10590758)"
        id="g5356">
@@ -94,13 +96,13 @@
        height="0.2"
        width="0.2"
        id="rect5363"
-       style="opacity:0.805;fill:#d6dcdb;fill-opacity:0.96078431;stroke:#99abb0;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96078431" />
+       style="opacity:0.80500016;fill:#d6dcdb;fill-opacity:0.96078431;stroke:#99abb0;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96078431" />
   </g>
   <rect
      style="opacity:0.95;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="origin"
      width="1"
      height="1"
-     x="0"
-     y="354.33072" />
+     x="1.05"
+     y="0.62682557" />
 </svg>

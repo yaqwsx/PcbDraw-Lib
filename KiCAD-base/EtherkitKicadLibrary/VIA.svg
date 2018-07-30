@@ -8,11 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="VIA.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.1"
    id="svg2"
-   width="10cm"
-   height="10cm">
+   width="0.031044317cm"
+   height="0.031045333cm"
+   viewBox="0 0 1.0999955 1.1000315">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -21,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -31,14 +32,14 @@
      inkscape:current-layer="svg2"
      inkscape:window-maximized="0"
      inkscape:window-y="0"
-     inkscape:window-x="0"
-     inkscape:cy="0.18733378"
-     inkscape:cx="-0.26124781"
+     inkscape:window-x="960"
+     inkscape:cy="1.2540129"
+     inkscape:cx="-0.15458594"
      inkscape:zoom="256"
      showgrid="false"
      id="namedview11"
-     inkscape:window-height="1026"
-     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-width="956"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -48,7 +49,8 @@
      bordercolor="#666666"
      pagecolor="#ffffff" />
   <g
-     id="g5308">
+     id="g5308"
+     transform="translate(0.0999955,-354.23069)">
     <ellipse
        ry="0.10000042"
        rx="0.099997707"
@@ -69,6 +71,6 @@
      id="origin"
      width="1"
      height="1"
-     x="0"
-     y="354.33072" />
+     x="0.099995501"
+     y="0.10003144" />
 </svg>

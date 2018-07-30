@@ -9,8 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="R0603.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="CHIPLED_0603.svg"
+   width="1.4740356"
+   height="1.891341"
+   viewBox="0 0 1.3819085 1.7731323">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -19,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,22 +37,22 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1916"
-     inkscape:window-height="510"
+     inkscape:window-width="956"
+     inkscape:window-height="1056"
      id="namedview8"
      showgrid="false"
      inkscape:zoom="256"
-     inkscape:cx="75.211408"
-     inkscape:cy="91.379569"
-     inkscape:window-x="0"
-     inkscape:window-y="548"
+     inkscape:cx="-4.8603819"
+     inkscape:cy="-5.0745885"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <g
-     transform="matrix(0,-0.26904613,0.23543332,0,73.680426,38.809647)"
+     transform="matrix(0,-0.26904613,0.23543332,0,-1.3868842,31.008561)"
      id="g51128">
     <rect
-       transform="matrix(0,-1,1,0,0,0)"
+       transform="rotate(-90)"
        y="109.60191"
        x="-9.0718107"
        height="0.88582677"
@@ -56,7 +60,7 @@
        id="rect51130"
        style="opacity:0.95999995;fill:#d6dcdb;fill-opacity:1;fill-rule:nonzero;stroke:#99abb0;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
-       transform="matrix(0,-1,1,0,0,0)"
+       transform="rotate(-90)"
        style="opacity:0.95999995;fill:#d6dcdb;fill-opacity:1;fill-rule:nonzero;stroke:#99abb0;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect51132"
        width="3.0640929"
@@ -64,7 +68,7 @@
        x="-9.0548658"
        y="114.26787" />
     <rect
-       transform="matrix(0,-1,1,0,0,0)"
+       transform="rotate(-90)"
        y="110.55491"
        x="-8.7225676"
        height="3.6430364"
@@ -77,6 +81,6 @@
      id="origin"
      width="1"
      height="1"
-     x="75.449219"
-     y="8.5742188" />
+     x="0.38190851"
+     y="0.77313232" />
 </svg>

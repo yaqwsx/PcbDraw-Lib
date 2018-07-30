@@ -9,11 +9,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="arduino_nano.svg"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    version="1.1"
    id="svg2"
-   width="10cm"
-   height="10cm">
+   width="0.49235216cm"
+   height="1.0752667cm"
+   viewBox="0 0 17.445549 38.100002">
   <metadata
      id="metadata15">
     <rdf:RDF>
@@ -31,15 +32,15 @@
   <sodipodi:namedview
      inkscape:current-layer="layer1"
      inkscape:window-maximized="0"
-     inkscape:window-y="18"
-     inkscape:window-x="0"
-     inkscape:cy="10.361469"
-     inkscape:cx="5.8757498"
+     inkscape:window-y="0"
+     inkscape:window-x="960"
+     inkscape:cy="10.571422"
+     inkscape:cx="5.9354541"
      inkscape:zoom="11.867168"
      showgrid="false"
      id="namedview11"
-     inkscape:window-height="1040"
-     inkscape:window-width="1916"
+     inkscape:window-height="1056"
+     inkscape:window-width="956"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -51,12 +52,13 @@
   <g
      inkscape:groupmode="layer"
      id="layer1"
-     inkscape:label="header-female">
+     inkscape:label="header-female"
+     transform="translate(0.05597276,-316.42754)">
     <g
        id="g4273"
-       transform="matrix(0,1,-1,0,354.27474,316.42754)">
+       transform="rotate(90,18.9236,335.35114)">
       <rect
-         transform="matrix(0,1,-1,0,0,0)"
+         transform="rotate(90)"
          y="-38.019997"
          x="352.09613"
          height="37.939995"
@@ -76,7 +78,7 @@
          y="-1.6898233"
          inkscape:tile-x0="0.49114499"
          inkscape:tile-y0="352.54723"
-         transform="matrix(0,1,-1,0,0,0)" />
+         transform="rotate(90)" />
       <use
          id="use4243"
          xlink:href="#use12577"
@@ -87,7 +89,7 @@
          height="100%" />
       <use
          id="use4245"
-         transform="translate(2.554,0)"
+         transform="translate(2.554)"
          xlink:href="#use12577"
          inkscape:tiled-clone-of="#use12577"
          y="0"
@@ -96,7 +98,7 @@
          height="100%" />
       <use
          id="use4247"
-         transform="translate(5.108,0)"
+         transform="translate(5.108)"
          xlink:href="#use12577"
          inkscape:tiled-clone-of="#use12577"
          y="0"
@@ -105,7 +107,7 @@
          height="100%" />
       <use
          id="use4249"
-         transform="translate(7.662,0)"
+         transform="translate(7.662)"
          xlink:href="#use12577"
          inkscape:tiled-clone-of="#use12577"
          y="0"
@@ -114,7 +116,7 @@
          height="100%" />
       <use
          id="use4251"
-         transform="translate(10.216,0)"
+         transform="translate(10.216)"
          xlink:href="#use12577"
          inkscape:tiled-clone-of="#use12577"
          y="0"
@@ -123,7 +125,7 @@
          height="100%" />
       <use
          id="use4253"
-         transform="translate(12.77,0)"
+         transform="translate(12.77)"
          xlink:href="#use12577"
          inkscape:tiled-clone-of="#use12577"
          y="0"
@@ -132,7 +134,7 @@
          height="100%" />
       <use
          id="use4255"
-         transform="translate(15.324,0)"
+         transform="translate(15.324)"
          xlink:href="#use12577"
          inkscape:tiled-clone-of="#use12577"
          y="0"
@@ -141,7 +143,7 @@
          height="100%" />
       <use
          id="use4257"
-         transform="translate(17.878,0)"
+         transform="translate(17.878)"
          xlink:href="#use12577"
          inkscape:tiled-clone-of="#use12577"
          y="0"
@@ -150,7 +152,7 @@
          height="100%" />
       <use
          id="use4259"
-         transform="translate(20.432,0)"
+         transform="translate(20.432)"
          xlink:href="#use12577"
          inkscape:tiled-clone-of="#use12577"
          y="0"
@@ -159,7 +161,7 @@
          height="100%" />
       <use
          id="use4261"
-         transform="translate(22.986,0)"
+         transform="translate(22.986)"
          xlink:href="#use12577"
          inkscape:tiled-clone-of="#use12577"
          y="0"
@@ -168,7 +170,7 @@
          height="100%" />
       <use
          id="use4263"
-         transform="translate(25.54,0)"
+         transform="translate(25.54)"
          xlink:href="#use12577"
          inkscape:tiled-clone-of="#use12577"
          y="0"
@@ -177,7 +179,7 @@
          height="100%" />
       <use
          id="use4265"
-         transform="translate(28.094,0)"
+         transform="translate(28.094)"
          xlink:href="#use12577"
          inkscape:tiled-clone-of="#use12577"
          y="0"
@@ -186,7 +188,7 @@
          height="100%" />
       <use
          id="use4267"
-         transform="translate(30.648,0)"
+         transform="translate(30.648)"
          xlink:href="#use12577"
          inkscape:tiled-clone-of="#use12577"
          y="0"
@@ -195,7 +197,7 @@
          height="100%" />
       <use
          id="use4269"
-         transform="translate(33.202,0)"
+         transform="translate(33.202)"
          xlink:href="#use12577"
          inkscape:tiled-clone-of="#use12577"
          y="0"
@@ -204,7 +206,7 @@
          height="100%" />
       <use
          id="use4271"
-         transform="translate(35.756,0)"
+         transform="translate(35.756)"
          xlink:href="#use12577"
          inkscape:tiled-clone-of="#use12577"
          y="0"
@@ -213,7 +215,7 @@
          height="100%" />
     </g>
     <g
-       transform="matrix(0,1,-1,0,369.40571,316.42754)"
+       transform="rotate(90,26.489085,342.91662)"
        id="g4292">
       <rect
          style="opacity:0.95;fill:#313633;fill-opacity:1;fill-rule:nonzero;stroke:#242a24;stroke-width:0.16000359;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -222,9 +224,9 @@
          height="37.939995"
          x="352.09613"
          y="-38.019997"
-         transform="matrix(0,1,-1,0,0,0)" />
+         transform="rotate(90)" />
       <rect
-         transform="matrix(0,1,-1,0,0,0)"
+         transform="rotate(90)"
          inkscape:tile-y0="352.54723"
          inkscape:tile-x0="0.49114499"
          y="-1.6898233"
@@ -252,7 +254,7 @@
          y="0"
          inkscape:tiled-clone-of="#use12577"
          xlink:href="#use12577"
-         transform="translate(2.554,0)"
+         transform="translate(2.554)"
          id="use4300" />
       <use
          height="100%"
@@ -261,7 +263,7 @@
          y="0"
          inkscape:tiled-clone-of="#use12577"
          xlink:href="#use12577"
-         transform="translate(5.108,0)"
+         transform="translate(5.108)"
          id="use4302" />
       <use
          height="100%"
@@ -270,7 +272,7 @@
          y="0"
          inkscape:tiled-clone-of="#use12577"
          xlink:href="#use12577"
-         transform="translate(7.662,0)"
+         transform="translate(7.662)"
          id="use4304" />
       <use
          height="100%"
@@ -279,7 +281,7 @@
          y="0"
          inkscape:tiled-clone-of="#use12577"
          xlink:href="#use12577"
-         transform="translate(10.216,0)"
+         transform="translate(10.216)"
          id="use4306" />
       <use
          height="100%"
@@ -288,7 +290,7 @@
          y="0"
          inkscape:tiled-clone-of="#use12577"
          xlink:href="#use12577"
-         transform="translate(12.77,0)"
+         transform="translate(12.77)"
          id="use4308" />
       <use
          height="100%"
@@ -297,7 +299,7 @@
          y="0"
          inkscape:tiled-clone-of="#use12577"
          xlink:href="#use12577"
-         transform="translate(15.324,0)"
+         transform="translate(15.324)"
          id="use4310" />
       <use
          height="100%"
@@ -306,7 +308,7 @@
          y="0"
          inkscape:tiled-clone-of="#use12577"
          xlink:href="#use12577"
-         transform="translate(17.878,0)"
+         transform="translate(17.878)"
          id="use4312" />
       <use
          height="100%"
@@ -315,7 +317,7 @@
          y="0"
          inkscape:tiled-clone-of="#use12577"
          xlink:href="#use12577"
-         transform="translate(20.432,0)"
+         transform="translate(20.432)"
          id="use4314" />
       <use
          height="100%"
@@ -324,7 +326,7 @@
          y="0"
          inkscape:tiled-clone-of="#use12577"
          xlink:href="#use12577"
-         transform="translate(22.986,0)"
+         transform="translate(22.986)"
          id="use4316" />
       <use
          height="100%"
@@ -333,7 +335,7 @@
          y="0"
          inkscape:tiled-clone-of="#use12577"
          xlink:href="#use12577"
-         transform="translate(25.54,0)"
+         transform="translate(25.54)"
          id="use4318" />
       <use
          height="100%"
@@ -342,7 +344,7 @@
          y="0"
          inkscape:tiled-clone-of="#use12577"
          xlink:href="#use12577"
-         transform="translate(28.094,0)"
+         transform="translate(28.094)"
          id="use4320" />
       <use
          height="100%"
@@ -351,7 +353,7 @@
          y="0"
          inkscape:tiled-clone-of="#use12577"
          xlink:href="#use12577"
-         transform="translate(30.648,0)"
+         transform="translate(30.648)"
          id="use4322" />
       <use
          height="100%"
@@ -360,7 +362,7 @@
          y="0"
          inkscape:tiled-clone-of="#use12577"
          xlink:href="#use12577"
-         transform="translate(33.202,0)"
+         transform="translate(33.202)"
          id="use4324" />
       <use
          height="100%"
@@ -369,7 +371,7 @@
          y="0"
          inkscape:tiled-clone-of="#use12577"
          xlink:href="#use12577"
-         transform="translate(35.756,0)"
+         transform="translate(35.756)"
          id="use4326" />
     </g>
   </g>
@@ -377,12 +379,13 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="capacitor"
-     style="display:inline" />
+     style="display:inline"
+     transform="translate(0.05597276,-316.42754)" />
   <rect
      style="opacity:0.95;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="origin"
      width="1"
      height="1"
-     x="8.6999998"
-     y="335.8027" />
+     x="8.7559729"
+     y="19.37517" />
 </svg>

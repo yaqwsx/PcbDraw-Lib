@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="2.2577775mm"
+   height="1.1201788mm"
+   viewBox="0 0 7.9999988 3.9691375"
    id="svg4328"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="R_PHOTO_7mm.svg">
   <defs
      id="defs4330">
@@ -38,15 +38,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="27.563906"
-     inkscape:cx="-3.2269593"
-     inkscape:cy="0.74597925"
+     inkscape:cx="-4.8286646"
+     inkscape:cy="-4.1854575"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1040"
-     inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-width="956"
+     inkscape:window-height="1056"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata4333">
@@ -63,7 +63,8 @@
   <g
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-1.5015987,-1043.7698)">
     <g
        id="g4957"
        transform="matrix(0.02657653,0,0,0.02657653,29.7989,1077.1505)">
@@ -85,7 +86,7 @@
          sodipodi:nodetypes="cccccccccccccc"
          inkscape:connector-curvature="0"
          id="path4949"
-         d="m -976.87991,-1248.6415 100.15071,-2.4627 0.82091,26.269 -68.95623,0 0,26.2691 66.49351,-0.8209 0.82091,27.9108 -66.49351,0 0,23.8063 64.03078,0 0,17.2391 -63.20987,0 0,18.8809 102.61343,-1.6418"
+         d="m -976.87991,-1248.6415 100.15071,-2.4627 0.82091,26.269 h -68.95623 v 26.2691 l 66.49351,-0.8209 0.82091,27.9108 h -66.49351 v 23.8063 h 64.03078 v 17.2391 h -63.20987 v 18.8809 l 102.61343,-1.6418"
          style="fill:none;fill-rule:evenodd;stroke:#8c492d;stroke-width:9.60000038;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
          r="10"

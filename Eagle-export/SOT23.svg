@@ -9,8 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="SOT23.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="SOT23.svg"
+   width="3.1999996"
+   height="2.8090634"
+   viewBox="0 0 2.9999999 2.6334972">
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -19,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,20 +37,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1080"
+     inkscape:window-width="956"
+     inkscape:window-height="1056"
      id="namedview9"
      showgrid="false"
      inkscape:zoom="256"
-     inkscape:cx="-0.30468753"
-     inkscape:cy="0.016750035"
-     inkscape:window-x="0"
+     inkscape:cx="1.2953123"
+     inkscape:cy="1.403415"
+     inkscape:window-x="960"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <g
      id="g50842"
-     transform="matrix(-0.29868296,0,0,-0.29868296,23.750876,120.05376)">
+     transform="matrix(-0.29868296,0,0,-0.29868296,25.250876,21.387259)">
     <rect
        y="62.986107"
        x="75.295273"
@@ -81,6 +85,6 @@
      id="origin"
      width="1"
      height="1"
-     x="0"
-     y="100.00781" />
+     x="1.5"
+     y="1.3413111" />
 </svg>

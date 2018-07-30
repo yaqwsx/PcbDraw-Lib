@@ -10,8 +10,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="MKDSN1,5%2f2-5,08.svg">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="MKDSN1,5%2f2-5,08.svg"
+   width="10.666666"
+   height="6.3766742"
+   viewBox="0 0 10 5.9781326">
   <defs
      id="defs17">
     <linearGradient
@@ -79,15 +82,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1916"
-     inkscape:window-height="1040"
+     inkscape:window-width="956"
+     inkscape:window-height="1056"
      id="namedview15"
      showgrid="false"
      inkscape:zoom="32.855625"
-     inkscape:cx="7.3660901"
-     inkscape:cy="-0.99787432"
-     inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:cx="12.711085"
+     inkscape:cy="2.1904664"
+     inkscape:window-x="960"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <metadata
@@ -98,12 +101,13 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="g50778"
-     transform="matrix(0,-0.26878308,0.26878308,0,-8.5823621,177.48713)">
+     transform="matrix(0,-0.26878308,0.26878308,0,-3.5714286,80.476193)">
     <rect
        y="13.287401"
        x="282.57874"
@@ -140,7 +144,7 @@
          cx="240.52078"
          cy="164.2317"
          r="5.909091"
-         transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)" />
+         transform="rotate(-30)" />
       <g
          id="g50754"
          transform="matrix(0.80379318,-0.46407021,0.46407021,0.80379318,46.831562,139.07785)">
@@ -162,9 +166,9 @@
     </g>
     <g
        id="g4193"
-       transform="matrix(0,-1,1,0,268.44452,331.88179)">
+       transform="rotate(-90,300.16316,31.718635)">
       <circle
-         transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"
+         transform="rotate(-30)"
          r="5.909091"
          cy="164.2317"
          cx="240.52078"
@@ -195,6 +199,6 @@
      id="origin"
      width="1"
      height="1"
-     x="0"
-     y="100" />
+     x="5.0109334"
+     y="2.9890628" />
 </svg>

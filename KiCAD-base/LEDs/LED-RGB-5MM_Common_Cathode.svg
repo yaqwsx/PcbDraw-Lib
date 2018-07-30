@@ -10,12 +10,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="1.4111111mm"
+   height="1.2811906mm"
+   viewBox="0 0 5 4.5396519"
    id="svg5567"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="LED-RGB-5MM_Common_Cathode.svg">
   <defs
      id="defs5569">
@@ -61,15 +61,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="23.947143"
-     inkscape:cx="-1.0721111"
-     inkscape:cy="-1.8013002"
+     inkscape:cx="1.5945556"
+     inkscape:cy="0.37430194"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="956"
-     inkscape:window-height="1040"
+     inkscape:window-height="1056"
      inkscape:window-x="960"
-     inkscape:window-y="18"
+     inkscape:window-y="0"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata5572">
@@ -86,12 +86,13 @@
   <g
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(2.5,-1049.8622)">
     <g
        id="g6181"
-       transform="matrix(0,-1,1,0,-1052.3622,1052.3622)">
+       transform="rotate(-90,0,1052.3622)">
       <rect
-         transform="matrix(0,-1,1,0,0,0)"
+         transform="rotate(-90)"
          y="-1.5868281"
          x="-1052.8622"
          height="1.9"
@@ -107,7 +108,7 @@
          style="opacity:0.85;fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          style="opacity:0.85"
-         transform="matrix(0,1,-1,0,1052.3622,1052.3622)"
+         transform="rotate(90,0,1052.3622)"
          id="g6154">
         <circle
            style="opacity:1;fill:#c5c5c5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
