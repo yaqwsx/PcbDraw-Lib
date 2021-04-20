@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="ShortedJumper-2_P1.3mm_Bridged_Pad1.0x1.0mm.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   version="1.1"
+   id="svg2"
+   width="2.3cm"
+   height="1cm"
+   viewBox="0 0 2.3000001 1">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="1"
+     inkscape:window-y="33"
+     inkscape:window-x="0"
+     inkscape:cy="51.723147"
+     inkscape:cx="16.612728"
+     inkscape:zoom="4.6529835"
+     showgrid="false"
+     id="namedview11"
+     inkscape:window-height="1019"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <rect
+     style="opacity:0.95;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.15001;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     width="0.90000004"
+     height="0.90000004"
+     x="0.050000001"
+     y="0.050000001"
+     id="rect5"
+     ry="0.3257609" />
+  <rect
+     style="opacity:0.95;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="origin"
+     width="1"
+     height="1"
+     x="1.1500001"
+     y="0.5" />
+  <rect
+     style="opacity:0.95;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.15;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     width="0.90000004"
+     height="0.90000004"
+     x="1.35"
+     y="0.050000001"
+     id="rect5-6"
+     ry="0.3257609" />
+</svg>
