@@ -15,13 +15,23 @@ library when using PcbDraw. Currently there following libraries:
   KiCAD looses library information and component names do not follow KiCAD
   conventions.
 
+## Important note for PcbDraw version > 0.6
+
+PcbDraw v0.6 is the last version, that uses the old library format, where 1mm =
+1 user unit. We no longer require this and you can use arbitrary units. The
+library have been migrated, however, if you use custom libraries, you might have
+to migrate them. You can do so by invoking `migrate_footprint.py` from the
+directory `scripts` on every footprint. I am sorry about this breaking change,
+but it will make creating the libraries less confusing for the future!
+
 ## Creating Modules
 
 Module is an SVG file containing a single component drawing. The file has to
 follow these rules:
 
-- it uses only SVG default units.
-- one default unit corresponds to 1 mm in reality.
+- the SVG image of the component should have size and viewbox attributes set
+- the units in the SVG should be chosen such that they correspond to the
+  physical size
 - it contains one element with `id=origin` having attributes `x` and `y`. Its
   coordinates serve as a module origin.
 - origin should be a red rectangle of size 1x1.
@@ -42,13 +52,13 @@ duplicated but symlinked.
 Directory `scripts` contains script for automatic generation of modules - e.g.
 pin headers, DIP packages, QFN packages, etc...
 
-Side note: reasoning behind units and origin. Even SVG format supports unit and
-origin can be placed at SVG (0,0) point, it not that easy in practice. Most of
-the editors do weird things with coordinate system. Inkscape, for example,
-reverses Y-axis and translates the origin by the initial size of document. When
-you change the size of the document, the coordinates are not modified. Therefor,
-I find placing origin component as the simplest solution which should be
-compatible with any editor.
+Side note: reasoning behind explicitly specifying origin. Even SVG format
+supports units and origin can be placed at SVG (0,0) point, it not that easy in
+practice. Most of the editors do weird things with coordinate system. Inkscape,
+for example, reverses Y-axis and translates the origin by the initial size of
+document. When you change the size of the document, the coordinates are not
+modified. Therefor, I find placing origin component as the simplest solution
+which should be compatible with any editor.
 
 ## Contributing
 
