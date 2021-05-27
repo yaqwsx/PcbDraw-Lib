@@ -86,7 +86,6 @@ def addOrigin(document):
     origin.attrib["height"] = str(ki2dmil(mm2ki(1)))
     origin.attrib["x"] = "0"
     origin.attrib["y"] = "0"
-    origin.attrib["sodipodi:insensitive"] = "true" # Inkscape lock
 
     document.getroot().append(origin)
 
