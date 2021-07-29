@@ -92,7 +92,7 @@ def plotBottomLayers(board):
             ("cmt", [pcbnew.Cmts_User], process),
             ("edge", [pcbnew.Edge_Cuts], process),
             ("silk", [pcbnew.B_SilkS], process)]
-    elements = pcbdraw.get_layers(board, colors, {}, plotPlan)
+    elements = pcbdraw.get_layers(board, colors, plotPlan)
     elements.attrib["id"] = "KiCAD footprint bottom"
     return elements
 
