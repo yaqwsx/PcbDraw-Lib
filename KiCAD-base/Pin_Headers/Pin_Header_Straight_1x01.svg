@@ -53,7 +53,7 @@
      inkscape:groupmode="layer"
      id="pin">
     <rect
-       style="opacity:0.95;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#141414;stroke-width:1.15387;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#141414;stroke-width:1.15387;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4686"
        width="1.4461316"
        height="1.4461316"
@@ -73,5 +73,5 @@
      width="1"
      height="1"
      x="1.3000001"
-     y="1.299933" />
+     y="1.2999337" />
 </svg>
