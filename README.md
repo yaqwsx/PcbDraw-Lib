@@ -72,7 +72,7 @@ resistor. Therefore, we locate the corresponding `*.kicad_mod` file and invoke
 it like this:
 
 ```
-scripts/create_template.py --front \
+scripts/create_template.py footprint --front \
   /usr/share/kicad/modules/Resistor_SMD.pretty/R_1206_3216Metric.kicad_mod \
   KiCAD-base/Resistor_SMD.pretty/R_1206_3216Metric.svg
 ```
