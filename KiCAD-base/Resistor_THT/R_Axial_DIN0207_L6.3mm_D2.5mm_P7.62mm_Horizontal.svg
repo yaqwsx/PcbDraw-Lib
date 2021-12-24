@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="10.425mm"
+   width="7.8849998mm"
    height="2.6030474mm"
-   viewBox="0 0 10.425 2.6030475"
+   viewBox="0 0 7.8849995 2.6030475"
    id="svg196"
-   sodipodi:docname="R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal.svg"
+   sodipodi:docname="R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -54,12 +54,12 @@
   </metadata>
   <path
      style="fill:none;stroke:#e6e6e6;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="M 0.13249999,1.3015237 H 10.2925"
+     d="M 0.13249999,1.3015237 H 7.7525"
      id="main_pin"
      sodipodi:nodetypes="cc" />
   <g
      id="res_bean"
-     transform="matrix(1.05,0,0,1.2048193,2.0625,1.3015237)">
+     transform="matrix(1.05,0,0,1.2048193,0.79249999,1.3015237)">
     <path
        sodipodi:nodetypes="ccccscccc"
        d="M 0,0 C 0,1 0.9,1.3 1.5,0.8 H 3 4.5 C 5.1,1.3 6,1 6,0 6,-1 5.1,-1.3 4.5,-0.8 H 3 1.5 C 0.9,-1.3 0,-1 0,0 Z"
