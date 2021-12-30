@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="32"
-     inkscape:cx="11.15625"
-     inkscape:cy="0.453125"
+     inkscape:zoom="16"
+     inkscape:cx="20.6875"
+     inkscape:cy="11.09375"
      inkscape:window-width="2560"
      inkscape:window-height="1390"
      inkscape:window-x="1920"
      inkscape:window-y="26"
      inkscape:window-maximized="1"
-     inkscape:current-layer="res_bean"
+     inkscape:current-layer="svg196"
      viewbox-x="0"
      inkscape:object-paths="false"
      inkscape:snap-smooth-nodes="true"
@@ -78,7 +78,7 @@
     </rdf:RDF>
   </metadata>
   <path
-     style="fill:none;stroke:#e6e6e6;stroke-width:0.265;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#cccccc;stroke-width:0.508;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 0,0 10,0"
      id="main_pin"
      sodipodi:nodetypes="cc" />
@@ -90,7 +90,7 @@
        style="display:inline;fill:#ffe598;fill-opacity:1;stroke:none;stroke-width:0.0900001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="bean_fill" />
     <rect
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.610361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0"
+       style="display:none;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.610361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="res_band1"
        height="1.6"
        x="1.65"
@@ -102,21 +102,21 @@
        height="1.6"
        width="0.60000002"
        id="res_band2"
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.610333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0" />
+       style="display:none;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.610333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        y="-0.80000001"
        x="3.05"
        height="1.6"
        width="0.60000002"
        id="res_band3"
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.610333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0" />
+       style="display:none;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.610333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <rect
        y="-0.80000001"
        x="3.75"
        height="1.6"
        width="0.60000002"
        id="res_band4"
-       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.610333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:0" />
+       style="display:none;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.610333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="ccccscccc"
        d="M 0,0 C 0,1 0.9,1.3 1.5,0.8 H 3 4.5 C 5.1,1.3 6,1 6,0 6,-1 5.1,-1.3 4.5,-0.8 H 3 1.5 C 0.9,-1.3 0,-1 0,0 Z"
