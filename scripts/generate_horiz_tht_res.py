@@ -10,7 +10,7 @@ scaled from this size to the desired size.
 
 from lxml import etree
 from copy import deepcopy
-
+import os
 
 res_options = [
   {'din': 'DIN0204', 'l': 3.6, 'd': 1.6, 'ps': [5.08, 7.62]},
@@ -18,11 +18,11 @@ res_options = [
   {'din': 'DIN0309', 'l': 9.0, 'd': 3.2, 'ps': [12.7, 15.24, 20.32, 25.4]},
   {'din': 'DIN0411','l': 9.9, 'd': 3.6, 'ps': [12.7, 15.24, 20.32, 25.4]},
   {'din': 'DIN0414','l': 11.9, 'd': 4.5, 'ps': [15.24, 20.32, 25.4]},
-  {'din': 'DIN0516','l': 15.5, 'd': 5.0, 'ps': [20.32, 25.4, 30.48]},
-  {'din': 'DIN0614','l': 14.3, 'd': 5.7, 'ps': [15.24, 20.32, 25.4]},
-  {'din': 'DIN0617','l': 17.0, 'd': 6.0, 'ps': [20.32, 25.4, 30.48]},
-  {'din': 'DIN0918','l': 18.0, 'd': 9.0, 'ps': [22.86, 25.4, 30.48]},
-  {'din': 'DIN0922','l': 20.0, 'd': 9.0, 'ps': [25.4, 30.48]},
+  #{'din': 'DIN0516','l': 15.5, 'd': 5.0, 'ps': [20.32, 25.4, 30.48]},
+  #{'din': 'DIN0614','l': 14.3, 'd': 5.7, 'ps': [15.24, 20.32, 25.4]},
+  #{'din': 'DIN0617','l': 17.0, 'd': 6.0, 'ps': [20.32, 25.4, 30.48]},
+  #{'din': 'DIN0918','l': 18.0, 'd': 9.0, 'ps': [22.86, 25.4, 30.48]},
+  #{'din': 'DIN0922','l': 20.0, 'd': 9.0, 'ps': [25.4, 30.48]},
 ]
 
 def map_scale(old_scale, new_scale):
@@ -33,12 +33,12 @@ def map_stroke_value(s_v, old_scale, new_scale):
     return s_v / new_scale * old_scale
 
 if __name__ == "__main__":
-    model = "R_Axial_Horizonal_BASE.svg"
-    
-    
+    if not os.path.isdir("export"):
+      os.mkdir("export")
+      
     for r in res_options:
         for pin_len in r['ps']:
-            document = etree.parse(model)
+            document = etree.parse("base/R_Axial_Horizonal_BASE.svg")
             root = document.getroot()
             
             # Delete all inkscape grids
@@ -64,4 +64,4 @@ if __name__ == "__main__":
             # Add the origin back
             root.append(origin)
             # Save
-            document.write("R_Axial_{:}_L{:.1f}mm_D{:.1f}mm_P{:.2f}mm_Horizontal.svg".format(r['din'], r['l'], r['d'], pin_len))
+            document.write("export/R_Axial_{:}_L{:.1f}mm_D{:.1f}mm_P{:.2f}mm_Horizontal.svg".format(r['din'], r['l'], r['d'], pin_len))
