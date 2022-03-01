@@ -12,7 +12,7 @@ from pcbdraw.pcbdraw import ki2mm, ki2svg, mm2ki
 def loadFootprint(footprintPath):
     lib, foot = os.path.split(footprintPath)
     foot, _ = os.path.splitext(foot)
-    return pcbnew.PCB_IO().FootprintLoad(lib, foot)
+    return pcbnew.FootprintLoad(lib, foot)
 
 def buildFootprintBoard(footprintPath):
     """
