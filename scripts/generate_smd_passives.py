@@ -80,6 +80,12 @@ custom_componet_properties = {
 
 sizes = {
   # Specify in mm
+  "0402": {
+    "w_total": to_mm(0.04),
+    "h_total": to_mm(0.02),
+    "w_lead": to_mm(0.01),
+    "stroke_width": 0.035,
+  },
   "0603": {
     "w_total": to_mm(0.06),
     "h_total": to_mm(0.03),
