@@ -22,7 +22,7 @@ def buildFootprintBoard(footprintPath):
     footprint = loadFootprint(footprintPath)
 
     board = pcbnew.BOARD()
-    footprint.SetPosition(pcbnew.wxPoint(0, 0))
+    footprint.SetPosition(pcbnew.VECTOR2I(0, 0))
     footprint.Reference().SetVisible(False)
     footprint.Value().SetVisible(False)
     board.Add(footprint)
@@ -41,8 +41,8 @@ def buildFootprintBoardF(footprint):
         newFootprint = pcbnew.Cast_to_BOARD_ITEM(footprint).Duplicate()
     board = pcbnew.BOARD()
     if footprint.GetLayerName() == pcbnew.B_Cu:
-        footprint.Flip(pcbnew.wxPoint(0, 0), True)
-    footprint.SetPosition(pcbnew.wxPoint(0, 0))
+        footprint.Flip(pcbnew.VECTOR2I(0, 0), True)
+    footprint.SetPosition(pcbnew.VECTOR2I(0, 0))
     # footprint.Reference().SetVisible(False)
     # footprint.Value().SetVisible(False)
     board.Add(footprint)
