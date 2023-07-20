@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   sodipodi:docname="MCX.svg"
+   sodipodi:docname="MCX.back.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    version="1.1"
    id="svg2"
@@ -46,62 +46,6 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4093">
-      <stop
-         style="stop-color:#f9e151;stop-opacity:1;"
-         offset="0"
-         id="stop4089" />
-      <stop
-         style="stop-color:#e0c108;stop-opacity:1"
-         offset="0.50940162"
-         id="stop4193" />
-      <stop
-         style="stop-color:#f9e151;stop-opacity:1"
-         offset="1"
-         id="stop4091" />
-    </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4093"
-       id="radialGradient3987"
-       cx="5.5500002"
-       cy="5.6916666"
-       fx="5.5500002"
-       fy="5.6916666"
-       r="0.75"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4093"
-       id="radialGradient3989"
-       cx="5.5500002"
-       cy="0.40000001"
-       fx="5.5500002"
-       fy="0.40000001"
-       r="0.75"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4093"
-       id="radialGradient3991"
-       cx="0.44999999"
-       cy="0.40000001"
-       fx="0.44999999"
-       fy="0.40000001"
-       r="0.75"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4093"
-       id="radialGradient3993"
-       cx="0.44999999"
-       cy="5.6916666"
-       fx="0.44999999"
-       fy="5.6916666"
-       r="0.75"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient4401"
        id="linearGradient4405"
        gradientUnits="userSpaceOnUse"
@@ -115,7 +59,7 @@
        xlink:href="#linearGradient4401"
        id="linearGradient4489"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-6.3192464,-0.03477066)"
+       gradientTransform="translate(-6.2786014,-0.00711299)"
        x1="5.7084156"
        y1="0.44125649"
        x2="7.7898706"
@@ -140,6 +84,16 @@
        y1="0.44125649"
        x2="7.7898706"
        y2="0.44125649" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4401"
+       id="linearGradient6364"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.80760815,0,0,0.80760815,-2.4506631,2.6436375)"
+       x1="5.7084156"
+       y1="0.44125649"
+       x2="7.7898706"
+       y2="0.44125649" />
   </defs>
   <sodipodi:namedview
      inkscape:current-layer="svg2"
@@ -147,7 +101,7 @@
      inkscape:window-y="27"
      inkscape:window-x="74"
      inkscape:cy="16.54241"
-     inkscape:cx="13.267595"
+     inkscape:cx="13.282897"
      inkscape:zoom="32.673594"
      showgrid="false"
      id="namedview11"
@@ -170,8 +124,8 @@
   <circle
      style="fill:url(#linearGradient4489);fill-opacity:1;stroke-width:0.690505"
      id="circle4487"
-     cx="0.42989674"
-     cy="0.40648586"
+     cx="0.47054178"
+     cy="0.43414351"
      r="1.0407275" />
   <circle
      style="fill:url(#linearGradient4493);fill-opacity:1;stroke-width:0.690505"
@@ -192,28 +146,28 @@
      cy="0.40923363"
      r="1.0407275" />
   <circle
-     style="fill:url(#radialGradient3987);fill-opacity:1;stroke-width:0.497612"
-     id="circle3754"
-     cx="5.5500002"
-     cy="5.6916666"
+     style="fill:#f1cb00;fill-opacity:1;stroke-width:0.497612"
+     id="circle4696"
+     cx="0.46000001"
+     cy="0.46000001"
      r="0.75" />
   <circle
-     style="fill:url(#radialGradient3993);fill-opacity:1.0;stroke-width:0.497612"
-     id="circle3756"
-     cx="0.44999999"
-     cy="5.6916666"
+     style="fill:#f1cb00;fill-opacity:1;stroke-width:0.497612"
+     id="circle4778"
+     cx="5.54"
+     cy="0.46000001"
      r="0.75" />
   <circle
-     style="fill:url(#radialGradient3989);fill-opacity:1.0;stroke-width:0.497612"
-     id="circle3733"
-     cx="5.5500002"
-     cy="0.40000001"
+     style="fill:#f1cb00;fill-opacity:1;stroke-width:0.497612"
+     id="circle4780"
+     cx="0.46000001"
+     cy="5.54"
      r="0.75" />
   <circle
-     style="fill:url(#radialGradient3991);fill-opacity:1.0;stroke-width:0.497612"
-     id="circle3180"
-     cx="0.44999999"
-     cy="0.40000001"
+     style="fill:#f1cb00;fill-opacity:1;stroke-width:0.497612"
+     id="circle4782"
+     cx="5.54"
+     cy="5.54"
      r="0.75" />
   <rect
      style="opacity:0.95;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -222,4 +176,16 @@
      height="1"
      x="2.9988322"
      y="2.9975302" />
+  <circle
+     style="fill:url(#linearGradient6364);fill-opacity:1;stroke-width:0.557657"
+     id="circle6360"
+     cx="3"
+     cy="3"
+     r="0.8405" />
+  <circle
+     style="fill:#f1cb00;fill-opacity:1;stroke-width:0.401876"
+     id="circle6362"
+     cx="3"
+     cy="3"
+     r="0.6057061" />
 </svg>
