@@ -1,13 +1,17 @@
 #!/usr/bin/env python3
 
-from pcbdraw import pcbdraw
+#from pcbdraw import pcbdraw
+import pcbdraw
 from pcbnewTransition import pcbnew
 import click
 import os
 from pathlib import Path
 
 from lxml import etree
-from pcbdraw.pcbdraw import ki2mm, ki2svg, mm2ki
+#from pcbdraw.plot import ki2mm, ki2svg, mm2ki
+from pcbdraw.plot import *
+
+ki2svg = PcbPlotter._ki2svg_v7
 
 def loadFootprint(footprintPath):
     lib, foot = os.path.split(footprintPath)
@@ -126,7 +130,7 @@ def run_footprint(footprint, output, front, shrink):
     """
     board = buildFootprintBoard(footprint)
     bb = board.ComputeBoundingBox()
-    document = pcbdraw.empty_svg(
+    document = empty_svg(
             width=f"{ki2mm(bb.GetWidth())}mm",
             height=f"{ki2mm(bb.GetHeight())}mm",
             viewBox=f"{ki2svg(bb.GetX())} {ki2svg(bb.GetY())} {ki2svg(bb.GetWidth())} {ki2svg(bb.GetHeight())}")
@@ -165,7 +169,7 @@ def run_board(board, output, shrink):
         fBoard = buildFootprintBoardF(f)
         bb = fBoard.ComputeBoundingBox()
         outFile = outdir / lib / (name + ".svg")
-        document = pcbdraw.empty_svg(
+        document = empty_svg(
             width=f"{ki2mm(bb.GetWidth())}mm",
             height=f"{ki2mm(bb.GetHeight())}mm",
             viewBox=f"{ki2svg(bb.GetX())} {ki2svg(bb.GetY())} {ki2svg(bb.GetWidth())} {ki2svg(bb.GetHeight())}")
@@ -180,7 +184,7 @@ def run_board(board, output, shrink):
             pcbdraw.shrink_svg(path, 0)
 
         outFile = outdir / lib / (name + ".back.svg")
-        document = pcbdraw.empty_svg(
+        document = empty_svg(
             width=f"{ki2mm(bb.GetWidth())}mm",
             height=f"{ki2mm(bb.GetHeight())}mm",
             viewBox=f"{ki2svg(bb.GetX())} {ki2svg(bb.GetY())} {ki2svg(bb.GetWidth())} {ki2svg(bb.GetHeight())}")
