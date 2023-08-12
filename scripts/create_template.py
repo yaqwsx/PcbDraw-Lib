@@ -43,6 +43,7 @@ def buildFootprintBoardF(footprint):
     if footprint.GetLayerName() == pcbnew.B_Cu:
         footprint.Flip(pcbnew.VECTOR2I(0, 0), True)
     footprint.SetPosition(pcbnew.VECTOR2I(0, 0))
+    footprint.SetOrientationDegrees(0)
     # footprint.Reference().SetVisible(False)
     # footprint.Value().SetVisible(False)
     board.Add(footprint)
@@ -164,6 +165,8 @@ def run_board(board, output, shrink):
         print(f"Plotting: {lib}:{name}")
         fBoard = buildFootprintBoardF(f)
         bb = fBoard.ComputeBoundingBox()
+        tmpOutDir = outdir / lib
+        tmpOutDir.mkdir(parents=True, exist_ok=True)
         outFile = outdir / lib / (name + ".svg")
         document = pcbdraw.empty_svg(
             width=f"{ki2mm(bb.GetWidth())}mm",
