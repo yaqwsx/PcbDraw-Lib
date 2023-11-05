@@ -66,13 +66,13 @@ which should be compatible with any editor.
 ## Module drawing walkthrough
 
 When you want to draw a component that is absent in the library, the easiest is
-to use `scripts/create_template.py`. This small script takes a `*.kicad_mod`
-file and outputs a SVG template for drawing. Let's say we would like to draw a
+to use `pcbdraw libtemplate footprint`. This command takes a `*.kicad_mod` file
+and outputs a SVG template for drawing. Let's say we would like to draw a
 resistor. Therefore, we locate the corresponding `*.kicad_mod` file and invoke
 it like this:
 
 ```
-scripts/create_template.py footprint --front \
+pcbdraw libtemplate footprint --front \
   /usr/share/kicad/modules/Resistor_SMD.pretty/R_1206_3216Metric.kicad_mod \
   KiCAD-base/Resistor_SMD.pretty/R_1206_3216Metric.svg
 ```
