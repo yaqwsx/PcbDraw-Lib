@@ -12,7 +12,7 @@
     </rdf:RDF>
   </metadata>
   <path style="fill:none;stroke:#cccccc;stroke-width:0.508;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="M 0,0 25.4,0" id="main_pin" sodipodi:nodetypes="cc"/>
-  <g id="res_bean" transform="translate(6.749999999999999, 0) scale(1.9833333333333334, 2.1686746987951806)">
+  <g id="res_bean" transform="translate(5.549999999999999, 0) scale(2.3833333333333333, 2.746987951807229)">
     <path sodipodi:nodetypes="ccccscccc" d="M 0,0 C 0,1 0.9,1.3 1.5,0.8 H 3 4.5 C 5.1,1.3 6,1 6,0 6,-1 5.1,-1.3 4.5,-0.8 H 3 1.5 C 0.9,-1.3 0,-1 0,0 Z" style="display:inline;fill:#ffe598;fill-opacity:1;stroke:none;stroke-width:0.0900001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" id="bean_fill"/>
     <rect style="display:none;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.610361;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="res_band1" height="1.6" x="1.65" y="-0.80000001" width="0.60000002"/>
     <rect y="-0.80000001" x="2.3499999" height="1.6" width="0.60000002" id="res_band2" style="display:none;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.610333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"/>
@@ -23,7 +23,7 @@
     <rect style="display:none;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.610333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="res_5band3" height="1.6" x="2.8" y="-0.80000001" width="0.40000013"/>
     <rect style="display:none;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.610333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="res_5band4" height="1.6" x="3.375" y="-0.80000001" width="0.40000013"/>
     <rect style="display:none;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.610333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="res_5band5" height="1.6" x="3.95" y="-0.80000001" width="0.40000013"/>
-    <path sodipodi:nodetypes="ccccscccc" d="M 0,0 C 0,1 0.9,1.3 1.5,0.8 H 3 4.5 C 5.1,1.3 6,1 6,0 6,-1 5.1,-1.3 4.5,-0.8 H 3 1.5 C 0.9,-1.3 0,-1 0,0 Z" style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.04537820168067227;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" id="bean_outline"/>
+    <path sodipodi:nodetypes="ccccscccc" d="M 0,0 C 0,1 0.9,1.3 1.5,0.8 H 3 4.5 C 5.1,1.3 6,1 6,0 6,-1 5.1,-1.3 4.5,-0.8 H 3 1.5 C 0.9,-1.3 0,-1 0,0 Z" style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03776227972027972;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" id="bean_outline"/>
     <rect style="display:none;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.610333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="res_zeroband" height="1.6" x="2.7" y="-0.80000001" width="0.60000002"/>
   </g>
 <rect id="origin" fill="#ff0000" width="1" height="1" x="0" y="0" style="stroke-width:1e-06"/>
