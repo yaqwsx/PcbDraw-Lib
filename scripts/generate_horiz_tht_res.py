@@ -13,16 +13,16 @@ from copy import deepcopy
 import os
 
 res_options = [
-  {'din': 'DIN0204', 'l': 3.6, 'd': 1.6, 'ps': [5.08, 7.62]},
-  {'din': 'DIN0207', 'l': 6.3, 'd': 2.5, 'ps': [7.62, 10.16, 15.24]},
-  {'din': 'DIN0309', 'l': 9.0, 'd': 3.2, 'ps': [12.7, 15.24, 20.32, 25.4]},
-  {'din': 'DIN0411','l': 9.9, 'd': 3.6, 'ps': [12.7, 15.24, 20.32, 25.4]},
-  {'din': 'DIN0414','l': 11.9, 'd': 4.5, 'ps': [15.24, 20.32, 25.4]},
-  #{'din': 'DIN0516','l': 15.5, 'd': 5.0, 'ps': [20.32, 25.4, 30.48]},
-  #{'din': 'DIN0614','l': 14.3, 'd': 5.7, 'ps': [15.24, 20.32, 25.4]},
-  #{'din': 'DIN0617','l': 17.0, 'd': 6.0, 'ps': [20.32, 25.4, 30.48]},
-  #{'din': 'DIN0918','l': 18.0, 'd': 9.0, 'ps': [22.86, 25.4, 30.48]},
-  #{'din': 'DIN0922','l': 20.0, 'd': 9.0, 'ps': [25.4, 30.48]},
+  {'din': 'DIN0204', 'l': 3.6, 'd': 1.6, 'ps_h': [5.08, 7.62], 'ps_v': [1.90, 2.54, 5.08]},
+  {'din': 'DIN0207', 'l': 6.3, 'd': 2.5, 'ps_h': [7.62, 10.16, 15.24], 'ps_v': [2.54, 5.08]},
+  {'din': 'DIN0309', 'l': 9.0, 'd': 3.2, 'ps_h': [12.7, 15.24, 20.32, 25.4], 'ps_v': [2.54, 5.08]},
+  {'din': 'DIN0411','l': 9.9, 'd': 3.6, 'ps_h': [12.7, 15.24, 20.32, 25.4], 'ps_v': [5.08, 7.62]},
+  {'din': 'DIN0414','l': 11.9, 'd': 4.5, 'ps_h': [15.24, 20.32, 25.4], 'ps_v': [5.08, 7.62]},
+  {'din': 'DIN0516','l': 15.5, 'd': 5.0, 'ps_h': [20.32, 25.4, 30.48], 'ps_v': [5.08, 7.62]},
+  {'din': 'DIN0614','l': 14.3, 'd': 5.7, 'ps_h': [15.24, 20.32, 25.4], 'ps_v': [5.08, 7.62]},
+  {'din': 'DIN0617','l': 17.0, 'd': 6.0, 'ps_h': [20.32, 25.4, 30.48], 'ps_v': [5.08, 7.62]},
+  {'din': 'DIN0918','l': 18.0, 'd': 9.0, 'ps_h': [22.86, 25.4, 30.48], 'ps_v': [7.62]},
+  {'din': 'DIN0922','l': 20.0, 'd': 9.0, 'ps_h': [25.4, 30.48], 'ps_v': [7.62]},
 ]
 
 def map_scale(old_scale, new_scale):
@@ -37,7 +37,7 @@ if __name__ == "__main__":
       os.mkdir("export")
       
     for r in res_options:
-        for pin_len in r['ps']:
+        for pin_len in r['ps_h']:
             document = etree.parse("base/R_Axial_Horizonal_BASE.svg")
             root = document.getroot()
             
@@ -65,3 +65,34 @@ if __name__ == "__main__":
             root.append(origin)
             # Save
             document.write("export/R_Axial_{:}_L{:.1f}mm_D{:.1f}mm_P{:.2f}mm_Horizontal.svg".format(r['din'], r['l'], r['d'], pin_len))
+
+    for r in res_options:
+        for pin_len in r['ps_v']:
+            document = etree.parse("base/R_Axial_Vertical_BASE.svg")
+            root = document.getroot()
+
+            named_view = root.find(
+                "{http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd}namedview"
+            )
+            if named_view is not None:
+                for grid in named_view.findall(
+                    "{http://www.inkscape.org/namespaces/inkscape}grid"
+                ):
+                    named_view.remove(grid)
+
+            origin = root.find(".//*[@id='origin']")
+            root.remove(origin)
+
+            pin = root.find(".//*[@id='main_pin']")
+            pin.attrib["d"] = pin.attrib["d"].replace("10", str(pin_len))
+
+            bean = root.find(".//*[@id='res_bean']")
+            scale = map_scale(1.8, r['d'])
+            bean.attrib["transform"] = f"scale({scale}, {scale})"
+
+            root.append(origin)
+            document.write(
+                "export/R_Axial_{:}_L{:.1f}mm_D{:.1f}mm_P{:.2f}mm_Vertical.svg".format(
+                    r['din'], r['l'], r['d'], pin_len
+                )
+            )
